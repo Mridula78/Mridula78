@@ -2,7 +2,7 @@
 👩🏻‍💻 Software Engineer excited for my journey and learnings in tech<br/>
 👩🏻‍🎓 Studing Computer Science at the RV University, Bangalore<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Mridula78&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://githubstats-qs6zpruw2-mridula78s-projects.vercel.app/api?username=Mridula78&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
