@@ -2,7 +2,7 @@
 👩🏻‍💻 Software Engineer excited for my journey and learnings in tech<br/>
 👩🏻‍🎓 Studing Computer Science at the RV University, Bangalore<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Harshini's GitHub stats](https://githubstats-qs6zpruw2-mridula78s-projects.vercel.app/api?username=Mridula78&hide=contribs,prs)
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
